@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .saweria-button {
+    display: flex;
+    align-items: center;
+    background-color: #ff5f5f;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .saweria-button img {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+  }
+  
+  .credits {
+    margin-top: 16px;
+    color: #aaa;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  
